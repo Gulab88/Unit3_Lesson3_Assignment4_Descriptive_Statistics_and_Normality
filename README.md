@@ -1,0 +1,2 @@
+# Unit3_Lesson3_Assignment4_Descriptive_Statistics_and_Normality
+Exploration of 7 different probability distributions 
